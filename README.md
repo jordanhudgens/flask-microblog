@@ -3,5 +3,7 @@
 ## To run
 
 * Start pipenv shell session
-* export FLASK_APP=microblog.py _or store this in the .flaskenv file_
+* export FLASK*APP=microblog.py \_or store this in the .flaskenv file*
 * flask run
+
+> Next: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates
