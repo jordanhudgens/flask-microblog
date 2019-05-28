@@ -6,4 +6,4 @@
 * Ensure that you have the FLASK_DEBUG and FLASK_APP constants in the .flaskenv file
 * python -m flask run
 
-> Next: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iv-database - The First Database Migration
+> Next: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-v-user-logins
