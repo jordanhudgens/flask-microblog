@@ -7,4 +7,4 @@
 * python -m flask run
 * To access the shell run: `flask shell`
 
-> Next: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-v-user-logins
+> Next: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-v-user-logins Requiring Users To Login - and fix issue where sign in isn't working, maybe after adding the registration component
