@@ -17,4 +17,4 @@ flask shell
 >>> db.session.commit()
 ```
 
-> Next: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-v-user-logins Requiring Users To Login - and fix issue where sign in isn't working, maybe after adding the registration component
+> Next: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-v-user-logins User Registration
