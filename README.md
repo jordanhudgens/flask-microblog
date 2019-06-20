@@ -24,4 +24,4 @@ flask db migrate -m "Some migration message"
 flask db upgrade
 ```
 
-> Next: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-v-user-logins User Registration
+> Next: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-vii-error-handling
