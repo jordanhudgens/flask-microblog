@@ -17,4 +17,11 @@ flask shell
 >>> db.session.commit()
 ```
 
+## To run migrations
+
+```
+flask db migrate -m "Some migration message"
+flask db upgrade
+```
+
 > Next: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-v-user-logins User Registration
