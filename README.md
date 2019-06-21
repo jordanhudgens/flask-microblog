@@ -25,3 +25,4 @@ flask db upgrade
 ```
 
 > Next: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-vii-error-handling
+> Sending Errors by Email
