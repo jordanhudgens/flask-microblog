@@ -30,5 +30,6 @@ flask db upgrade
 python -m smtpd -n -c DebuggingServer localhost:8025
 ```
 
-> Next: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-vii-error-handling
-> Sending Errors by Email
+> Next:
+> https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-viii-followers
+> Database Model Representation
