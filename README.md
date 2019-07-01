@@ -24,5 +24,11 @@ flask db migrate -m "Some migration message"
 flask db upgrade
 ```
 
+## To run debugging server
+
+```
+python -m smtpd -n -c DebuggingServer localhost:8025
+```
+
 > Next: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-vii-error-handling
 > Sending Errors by Email
