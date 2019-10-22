@@ -31,5 +31,4 @@ python -m smtpd -n -c DebuggingServer localhost:8025
 ```
 
 > Next:
-> https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-viii-followers
-> Combining Own and Followed Posts
+> https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ix-pagination
